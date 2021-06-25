@@ -1,0 +1,174 @@
+nav {
+  background-color: #FFF;
+}
+
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.nav_superior {
+  margin-bottom: 22px;
+}
+
+.Logo_Desktop {
+  position: relative;
+  left: 15px;
+  top: 10px;
+  width: 114px;
+  height: 32px;
+  z-index: 166;
+}
+
+.logo-bienvenido {
+  font-family: 'Gotham Rounded Medium';
+  font-style: italic;
+  font-size: 12px;
+  font-weight: 200;
+  color: #696969;
+  position: relative;
+  top: 5px;
+  left: 36px;
+}
+
+.logo-nomusuario {
+  font-family: 'Gotham Rounded Light';
+  font-weight: normal;
+  font-size: 14px;
+  color: #696969;
+  position: relative;
+  top: 18px;
+  left: -35px;
+}
+
+.cuadro-notif {
+    width: 160px;
+    height: 30px;
+    background-color: #E0E1E3;
+    color: #ff0018;
+    position: absolute;
+    text-align: center;
+    right: 10px;
+    top: 11px;
+    border-radius: .25rem;
+    /* font-size: 19px; */
+    font-size: 17px;
+    padding-top: 2px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.cuadro-unidad {
+  width: 30px;
+  height: 30px;
+  background-color: #ED1B2F;
+  color: #FFF;
+  position: absolute;
+  text-align: center;
+  padding-top: 1px;
+  /*padding-left: 1px;*/
+  right: 45px;
+  top: 11px;
+  border-radius: .25rem;
+  font-size: 19px;
+  font-family: 'Gotham Rounded Bold';
+}
+
+.logo-unidadnegocio {
+  font-family: 'Gotham Rounded Medium';
+  font-style: italic;
+  font-size: 12px;
+  font-weight: 200;
+  color: #696969;
+  position: relative;
+  top: 4px;
+  right: 27px;
+}
+
+.logo-nomunidadnegocio {
+  font-family: 'Gotham Rounded Light';
+  font-weight: normal;
+  font-size: 14px;
+  color: #696969;
+  position: relative;
+  top: 18px;
+  right: 68px;
+}
+
+.nav_inferior {
+    background-color: #ed1b2f;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: right;
+}
+.nav_inferior_msj {
+    color: red;
+    font-size: 1.3rem;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: right;
+}
+
+
+.nav_texto {
+  font-family: 'Gotham Rounded Bold';
+  font-style: italic;
+  font-size: 16px;
+  color: #FFF;
+}
+
+.nav_ico {
+  font-size: 20px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+.nav_input {
+  border: none;
+  font-size: 12px;
+  font-style: italic;
+  color: #696969;
+  font-weight: 200;
+  top: 1px;
+  border-radius: .25rem;
+}
+
+.nav_input:active {
+  border: 0.5px #78b928;
+}
+
+.nav_button {
+  color: #78b928;
+  right: 0px;
+  position: absolute;
+  padding: 7px 30px 0px 0px;
+  z-index: 99999;
+  top: 2px;
+}
+
+.contenedor-header {
+    background-color: #fafafa;
+    margin-bottom: -40px;
+    padding: 2rem 2rem;
+}
+
+hr {
+  border-top: 2px dashed #D8D8D8;
+}
+
+.titulo-contenedor {
+  font-family: 'Gotham Rounded Light';
+  font-weight: normal;
+  font-size: 24px;
+  letter-spacing: -1px;
+}
+
+.subtitulo-header {
+  font-family:'Gotham Rounded Bold';
+  font-style: italic;
+  margin-bottom: 30px;
+}

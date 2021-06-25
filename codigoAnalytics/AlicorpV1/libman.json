@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "defaultProvider": "filesystem",
+  "libraries": [
+    {
+      "library": "C:\\Users\\PC\\.nuget\\packages\\bootstrap.v3.datetimepicker\\4.17.45",
+      "destination": "wwwroot/4.17/",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bootstrap.v3.datetimepicker.4.17.45.nupkg",
+        "bootstrap.v3.datetimepicker.4.17.45.nupkg.sha512",
+        "bootstrap.v3.datetimepicker.nuspec"
+      ]
+    },
+    {
+      "library": "C:\\Users\\PC\\.nuget\\packages\\bootstrap.v3.datetimepicker.css\\4.17.45",
+      "destination": "wwwroot/4.17/",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bootstrap.v3.datetimepicker.css.4.17.45.nupkg",
+        "bootstrap.v3.datetimepicker.css.4.17.45.nupkg.sha512",
+        "bootstrap.v3.datetimepicker.css.nuspec"
+      ]
+    },
+    {
+      "library": "C:\\Users\\PC\\node_modules\\v-calendar",
+      "destination": "wwwroot/v-calendar/"
+    }
+  ]
+}

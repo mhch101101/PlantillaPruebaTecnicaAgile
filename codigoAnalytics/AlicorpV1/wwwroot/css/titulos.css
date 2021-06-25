@@ -1,0 +1,14 @@
+.contenedor-header {
+	background-color: #fafafa;
+}
+
+.titulo-contenedor {
+	font-family: 'Gotham Rounded Light';
+	font-weight: normal;
+	letter-spacing: -1px;
+}
+
+.subtitulo-header {
+	font-family:'Gotham Rounded Bold';
+	font-style: italic;
+}
